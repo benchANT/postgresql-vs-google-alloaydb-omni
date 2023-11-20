@@ -1,0 +1,22 @@
+{
+ "scalefactor": "100.0",
+ "Current Timestamp (milliseconds)": 1699977744065,
+ "Benchmark Type": "tpcc",
+ "isolation": "TRANSACTION_SERIALIZABLE",
+ "DBMS Version": "PostgreSQL 15.2 on x86_64-pc-linux-gnu, compiled by Debian clang version 12.0.1, 64-bit",
+ "Goodput (requests/second)": 3034.2605661123994,
+ "terminals": "20",
+ "DBMS Type": "POSTGRES",
+ "Latency Distribution": {
+  "95th Percentile Latency (microseconds)": 15021,
+  "Maximum Latency (microseconds)": 797120,
+  "Median Latency (microseconds)": 5285,
+  "Minimum Latency (microseconds)": 435,
+  "25th Percentile Latency (microseconds)": 3050,
+  "90th Percentile Latency (microseconds)": 11144,
+  "99th Percentile Latency (microseconds)": 20898,
+  "75th Percentile Latency (microseconds)": 8435,
+  "Average Latency (microseconds)": 6383
+ },
+ "Throughput (requests/second)": 3131.951659676725
+}
